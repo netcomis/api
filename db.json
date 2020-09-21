@@ -1,0 +1,7 @@
+{"transactions": [{
+        "description": "description",
+        "referenceNumber": "1234abcd",
+        "date": "11/12/2019",
+        "amount": 1234,
+        "transactionType": "OUTGOING"
+    }]}
