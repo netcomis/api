@@ -1,4 +1,24 @@
 {
+    "invoices": [
+        {
+            "clientName": "Bob",
+            "date": "08/01/2019",
+            "referenceNumber": "7ccb4686-244f-41e8-a4c6-a4a3e8fd27b4",
+            "amount": 125
+        },
+        {
+            "clientName": "Jeff",
+            "date": "07/02/2019",
+            "referenceNumber": "8daecbac-d68c-4802-b3d8-ddeb5445bc8a",
+            "amount": -600
+        },
+        {
+            "clientName": "Bob",
+            "date": "06/06/2019",
+            "referenceNumber": "d9717fe8-033d-496d-b008-6805c7d153b5",
+            "amount": -125
+        }
+    ],
     "transactions": [
         {
             "description": "transaction 1",
