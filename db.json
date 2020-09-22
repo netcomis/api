@@ -2,7 +2,7 @@
     "invoices": [
         {
             "clientName": "Bob",
-            "date": "2019-01-08",
+            "date": "2019-01-12",
             "referenceNumber": "7ccb4686-244f-41e8-a4c6-a4a3e8fd27b4",
             "amount": 125
         },
