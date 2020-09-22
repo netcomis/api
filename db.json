@@ -1,4 +1,8 @@
 {
+    "account-summary": {
+        "balance": 123456,
+        "threshold": 100000
+    },
     "invoices": [
         {
             "clientName": "Bob",
