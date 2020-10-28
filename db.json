@@ -1,4 +1,18 @@
 {
+    "items": [
+        {
+            "description": "Book",
+            "Price": 5
+        },
+        {
+            "description": "CD",
+            "Price": 10
+        },
+        {
+            "description": "DVD",
+            "Price": 15
+        }
+    ],
     "account-summary": {
         "balance": 123456,
         "threshold": 100000
