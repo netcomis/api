@@ -2,15 +2,15 @@
     "items": [
         {
             "description": "Book",
-            "Price": 5
+            "price": 5
         },
         {
             "description": "CD",
-            "Price": 10
+            "price": 10
         },
         {
             "description": "DVD",
-            "Price": 15
+            "price": 15
         }
     ],
     "account-summary": {
